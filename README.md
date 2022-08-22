@@ -5,7 +5,7 @@
 :raising_hand:<b>MoonSeok</b>:raising_hand:
 </div><br>
 <div align=left>
-<a href="[https://third-pegasus-acd.notion.site/command-b2edb00a103f4f099d400a42f59325be](https://third-pegasus-acd.notion.site/MoonSeok-s-Portfolio-c040dd3d53484683ba2c3a6eb50f4c51)"><img src="https://img.shields.io/badge/-Notion-0d1117?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="https://third-pegasus-acd.notion.site/MoonSeok-s-Portfolio-c040dd3d53484683ba2c3a6eb50f4c51"><img src="https://img.shields.io/badge/-Notion-0d1117?style=flat-square&logo=Notion&logoColor=white"/></a>
 <a href="mailto:jmh4228@gmail.com"><img src="https://img.shields.io/badge/-Gmail-f38616?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </div>
 </br>
